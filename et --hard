@@ -1,0 +1,24 @@
+[33m9d9553a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Bad commit to undo after push
+[33mc28cf85[m Create README.md
+[33m73307ab[m Merge pull request #4 from Baki0602/feature3
+[33m3b900fb[m[33m ([m[1;31morigin/feature3[m[33m)[m Conflict resolved
+[33m2bacff5[m Merge pull request #5 from Baki0602/feature4
+[33m9010495[m[33m ([m[1;31morigin/feature4[m[33m)[m Conflict resolved
+[33m46deb35[m feature4
+[33m68c4518[m feature3
+[33m2a9b474[m Merge pull request #3 from Baki0602/feature2
+[33mef6474e[m[33m ([m[1;31morigin/feature2[m[33m)[m Merge branch 'master' into feature2
+[33mc4e47bd[m Merge pull request #2 from Baki0602/feature1
+[33m44c9eed[m feature2
+[33me33bb94[m[33m ([m[1;31morigin/feature1[m[33m)[m feature1
+[33m967e518[m Merge pull request #1 from Baki0602/new-feature
+[33md6f56f3[m[33m ([m[1;31morigin/new-feature[m[33m)[m new feature
+[33m6213934[m Merge conflict resolved
+[33m50a06ea[m conflict2
+[33me14d886[m conflict1
+[33m99dafe9[m Merge feature1
+[33m0ae1cee[m bugfix
+[33me8fa066[m feature commit 2
+[33m27eb8bf[m feature commit 1
+[33mc1f3a4e[m version3
+[33m9373274[m version2
